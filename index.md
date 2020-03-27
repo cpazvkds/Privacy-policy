@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+By using this app, you are agreeing with this privacy policy. Art Rebel 9 provides the app and reserves the right to change and modify this privacy policy at any time, without further notice.  The current privacy policy is available at here. Collection and Use of Personal Information The app does not collect any personal information by itself; however, libraries from Unity3D and Vuforia's augmented reality kit, may or may not collect and use personal information as described below.
+Unity 3D
+Unity may collect some or all of the following information about your device: unique device identifiers (e.g., IDFV for iOS devices and Android ID for Android devices) ); IP address; country of install (mapped from IP address); device manufacturer and model platform type (iOS, Android, Mac, Windows, etc.) and the operating system and version running on your system or device; language; CPU information such as model, the number of CPUs present, frequency, and instruction set support flags; the graphics card type and vendor name; graphics card driver name and version (example: "nv4disp.dll 6.10.93.71"); which graphics API is in use (example: "OpenGL 2.1" or "Direct3D 9.0c"); amount of system and video RAM present; current screen resolution; version of the Unity Editor used to create the  game; sensor flags (e.g., device support for gyroscope, touch pressure or accelerometer); application or bundle identification ("app ID") of the game installed; unique advertising identifiers provided for iOS and Android devices (e.g., IDFA or Android Ad ID); and a checksum of all the data that gets sent to verify that it did transmit correctly. The complete Unity privacy policy can be read at https://unity3d.com/legal/privacy-policy
+Vuforia
+The Vuforia AR platform may collect the following information or “statistics”:
+1. Information about the end users’ devices such as:
+Make, model, and firmware version of the user’s device
+Operating system name and version number of the user’s device
+Camera profile version
 
-You can use the [editor on GitHub](https://github.com/cpazvkds/cpazvkds/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+2. Information about the software used to create the Developer Application such as:
+Vuforia API version
+Vuforia license keys for mobile and digital eyewear licenses
+Cloud Recognition client key for apps that utilize Cloud Recognition (not used by the lunar and planetARy app)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+3. Information about the Developer Application and its use such as:
+Application bundle ID
+Application distribution type
+Application version
+Application store identifier
+Initial application session timestamp determined at the first time an app is launched after being installed on a device
+Vuforia feature usage events
+Start Vuforia timestamp
+Camera start time when Vuforia  is running
+Recognition event type and timestamps
+Tracker detection timestamp
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cpazvkds/cpazvkds/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. The IP address used by the end user’s device for the purpose of inferring the country of use (but not the exact     location).
+5. Images submitted with Cloud Recognition queries in order to match image for a Recognition event (not used by the     lunar and planetARy app).
+The complete Vuforia privacy policy can be read at https://developer.vuforia.com/legal/privacy
+How is collected data used?
+The app does not collect any personal information by itself. However, Unity3D, Vuforia, and/or its affiliates and service providers may collect and use Statistics: (a) to provide the Software and Services, (b) to improve and optimize the Software and Services for different hardware and software requirements on various consumer devices (commonly referred to as device fragmentation), (c) to facilitate the provision of new products, updates, enhancements, technologies, and other services, (d) to improve the Software, the Services, and other products, services and technologies, and for any business purpose if de-identified and/or anonymized.
+How is the data collected disclosed?
+App does not collect any personal information by itself. However, Unity and Vuforia uses collected Statistics for business purpose if de-identified and/or anonymized.
+How is collected data retained?
+The App does not collect any personal information by itself. However, data collection by the Unity game engine is aggregated/anonymized and available to developers at stats.unity3d.com. PTC Inc. is responsible for the storage of data collected by the Vuforia AR platform.
+How to opt out
+You can stop all collection of information indirectly generated by uninstalling the app. You may use the standard uninstall processes available as part of your mobile device. Children's online privacy protection act (COPPA) compliance This app doesn't use any online feature by itself; however, it is built using the Unity game engine and Vuforia AR platform.  You can access the Unity privacy policy here: < a href="https://unity3d.com/legal/privacy-policy">https://unity3d.com/legal/privacy-policy and the Vuforia privacy policy here: < a href="https://developer.vuforia.com/legal/privacy">https://developer.vuforia.com/legal/privacy.
+Log data
+We want to inform you that whenever you visit  http://www.artrebel9.com, we may (or may not) collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+Cookies
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer’s hard drive. Our website may use these “cookies” to collect anonymized information and to improve our Service. In case we need to use it, you have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our website.
+Contacting us
+If there are any questions regarding the privacy policy you may contact us using the information listed below:
+Art Rebel 9
+Livarska 12
+Slovenia, 1000 Ljubljana
