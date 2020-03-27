@@ -60,6 +60,11 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 Contacting us
 
 If there are any questions regarding the privacy policy you may contact us using the information listed below:
+
 CPA ZVKDS
+
 Poljanska Cesta 40
-Slovenia, 1000 Ljubljana
+
+1000 Ljubljana
+
+Slovenia
