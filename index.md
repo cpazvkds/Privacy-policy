@@ -32,7 +32,9 @@ Tracker detection timestamp
 4. The IP address used by the end user’s device for the purpose of inferring the country of use (but not the exact     location).
 5. Images submitted with Cloud Recognition queries in order to match image for a Recognition event (not used by the     lunar and planetARy app).
 The complete Vuforia privacy policy can be read at https://developer.vuforia.com/legal/privacy
+
 How is collected data used?
+
 The app does not collect any personal information by itself. However, Unity3D, Vuforia, and/or its affiliates and service providers may collect and use Statistics: (a) to provide the Software and Services, (b) to improve and optimize the Software and Services for different hardware and software requirements on various consumer devices (commonly referred to as device fragmentation), (c) to facilitate the provision of new products, updates, enhancements, technologies, and other services, (d) to improve the Software, the Services, and other products, services and technologies, and for any business purpose if de-identified and/or anonymized.
 
 How is the data collected disclosed?
