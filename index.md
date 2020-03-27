@@ -42,6 +42,8 @@ Cookies
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer’s hard drive. Our website may use these “cookies” to collect anonymized information and to improve our Service. In case we need to use it, you have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our website.
 Contacting us
 If there are any questions regarding the privacy policy you may contact us using the information listed below:
-Art Rebel 9
-Livarska 12
+
+
+CPA ZVKDS
+Poljanska 40
 Slovenia, 1000 Ljubljana
