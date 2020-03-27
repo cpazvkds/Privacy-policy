@@ -45,5 +45,5 @@ If there are any questions regarding the privacy policy you may contact us using
 
 
 CPA ZVKDS
-Poljanska 40
+Poljanska Cesta 40
 Slovenia, 1000 Ljubljana
